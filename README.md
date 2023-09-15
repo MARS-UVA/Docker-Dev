@@ -28,6 +28,5 @@ Notes
        RUN npm install\
        CMD ["node", "server.js"]\
    }\
-6. 
-7. 
+
      
